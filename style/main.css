@@ -259,10 +259,11 @@ body {
     width: 90%;
   }
 
-  .text-box .fake-btn {
-    bottom: -38px;
-    right: 5px;
+ .text-box .fake-btn {
+    bottom: -60px;
+    right: 10px;
   }
+
 
   .idea-5 span {
     display: block;
