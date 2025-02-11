@@ -61,7 +61,6 @@ body {
 
 .text-box .fake-btn {
   background-color: rgb(21, 161, 237);
-  transform: translate(0px, 20px);
   border-radius: 3px;
   bottom: -70px;
   color: #fff;
