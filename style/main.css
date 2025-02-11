@@ -105,16 +105,16 @@ body {
   display: inline-block;
   height: 350px;
   max-width: 100%;
-  /* height: auto; */
 }
 
 .six .hat {
-  left: 41.5%;
   position: absolute;
-  /* transform: scale(0.1); */
-  top: -35%;
+  left: 50%;
+  top: 20%;  /* Adjust this value as needed */
+  transform: translate(-50%, -50%);
   width: 80px;
 }
+
 
 .baloons img {
   display: inline-block;
